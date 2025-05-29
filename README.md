@@ -16,7 +16,7 @@ An intelligent content management system that allows you to manage your blog usi
 ## 📋 Requirements
 
 - PHP 8.2+
-- Laravel 11.x
+- Laravel 12
 - Composer
 - OpenAI API Key
 - SQLite (default) or your preferred database
@@ -344,4 +344,4 @@ For questions, issues, or feature requests, please open an issue on the reposito
 
 ---
 
-**Built with ❤️ using Laravel 11 & OpenAI Structured Outputs + Function Calling**
+**Built with ❤️ using Laravel 12 & OpenAI Structured Outputs + Function Calling**
